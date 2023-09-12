@@ -6,6 +6,5 @@ title: Notes
 
 ## Notes of Physics
 
--[G.Moore Group Theory](https://Peiyuan-Wang.github.io/blogs/notes/GroupTheory)
-
--[David Tong  QFT](https://Peiyuan-Wang.github.io/blogs/notes/QFT)
+- [G.Moore Group Theory](https://Peiyuan-Wang.github.io/blogs/notes/GroupTheory)
+- [David Tong  QFT](https://Peiyuan-Wang.github.io/blogs/notes/QFT)
