@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/wpy.jpg" >
+<img src="https://Peiyuan-Wang.github.io/images/wpy.jpg" class="floatpic" width="270" height="480">
 
 Here is **Peiyuan Wang (Parry, 王培源)**.
 
