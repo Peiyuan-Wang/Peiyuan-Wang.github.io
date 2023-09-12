@@ -6,7 +6,16 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2023
+### [物理笔记](https://Peiyuan-Wang.github.io/blogs/notes)
+
+
+### [随笔](https://Peiyuan-Wang.github.io/blogs/jottings)
+
+
+
+
+
+<!-- ### 2023
 
 - 如何平衡学业、科研和恋爱？
 - [数学建模竞赛的成功四要素](https://caihanlin.com/blogs/team2023)
@@ -26,9 +35,9 @@ title: Blogs
 ### 2020
 
 - [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+- [本科博客，笔记，回忆录](https://mieclance.club/) -->
 
-<br>
+<!-- <br>
 
 ## Leave a Message
 
@@ -42,4 +51,4 @@ title: Blogs
 
 [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io)
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFSVkxCRUEwRlRZMjQzb2pDZEs2X01kWFJ3V1BSTkdDV3pnREZNd2VTNmtUWDhlaWVWSzBhdXdzbTRhdzc0UlhXQzdJV1FDTGlrM204amMz#GuangLun2000/GuangLun2000.github.io&Date" frameBorder="0"></iframe>
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2l0aHViX3BhdF8xMUFSVkxCRUEwRlRZMjQzb2pDZEs2X01kWFJ3V1BSTkdDV3pnREZNd2VTNmtUWDhlaWVWSzBhdXdzbTRhdzc0UlhXQzdJV1FDTGlrM204amMz#GuangLun2000/GuangLun2000.github.io&Date" frameBorder="0"></iframe> -->
