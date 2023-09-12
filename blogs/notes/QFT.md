@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /blogs/hello/index.html
-title: hello
+permalink: /blogs/notes/QFT/index.html
+title: QFT
 ---
 
-## Hello Blogs
+## QFT
 
 <br>[人间正道是沧桑](https://lijinzhang.com/)
 

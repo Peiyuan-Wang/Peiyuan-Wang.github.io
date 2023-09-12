@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /blogs/hello/index.html
-title: hello
+permalink: /blogs/notes/GroupTheory/index.html
+title: GroupTheory
 ---
 
-## Hello Blogs
+## GroupTheory
 
 <br>[人间正道是沧桑](https://lijinzhang.com/)
 
