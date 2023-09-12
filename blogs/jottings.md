@@ -4,8 +4,8 @@ permalink: /blogs/jottings/index.html
 title: jottings
 ---
 
-## Notes of Physics
+## Jottings
 
--[G.Moore Group Theory](https://Peiyuan-Wang.github.io/blogs/jottings/GroupTheory)
+-[1](https://Peiyuan-Wang.github.io/blogs/jottings/1)
 
--[David Tong  QFT](https://Peiyuan-Wang.github.io/blogs/jottings/QFT)
+-[2](https://Peiyuan-Wang.github.io/blogs/jottings/2)
