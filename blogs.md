@@ -11,10 +11,3 @@ title: Blogs
 
 
 
-
-
-<!-- ## Leave a Message -->
-
-<!-- <br> -->
-
-<!-- {% include disqus.html %}  -->
