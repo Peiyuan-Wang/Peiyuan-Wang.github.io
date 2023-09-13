@@ -6,5 +6,5 @@ title: Poems
 
 ## Poems
 
-- [G.Moore Group Theory](https://Peiyuan-Wang.github.io/blogs/poems/1)
-- [David Tong  QFT](https://Peiyuan-Wang.github.io/blogs/poems/2)
+- [东西两边的黄昏与傍晚](https://Peiyuan-Wang.github.io/blogs/poems/东西两边的黄昏与傍晚)
+- [2](https://Peiyuan-Wang.github.io/blogs/poems/2)
