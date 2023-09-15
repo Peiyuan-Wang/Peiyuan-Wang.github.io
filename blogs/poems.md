@@ -26,3 +26,6 @@ title: Poems
 - [愁](https://Peiyuan-Wang.github.io/blogs/poems/愁)
 - [柳](https://Peiyuan-Wang.github.io/blogs/poems/柳)
 - [无题3](https://Peiyuan-Wang.github.io/blogs/poems/无题3)
+- [无题4](https://Peiyuan-Wang.github.io/blogs/poems/无题4)
+- [未来生活的愿景](https://Peiyuan-Wang.github.io/blogs/poems/未来生活的愿景)
+- [错过](https://Peiyuan-Wang.github.io/blogs/poems/错过)
