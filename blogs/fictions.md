@@ -4,7 +4,7 @@ permalink: /blogs/fictions/index.html
 title: Fictions
 ---
 
-## Poems
+## Fictions
 
-- [G.Moore Group Theory](https://Peiyuan-Wang.github.io/blogs/fictions/1)
-- [David Tong  QFT](https://Peiyuan-Wang.github.io/blogs/fictions/2)
+- [茶香依旧](https://Peiyuan-Wang.github.io/blogs/fictions/茶香依旧)
+- [星空下的四季](https://Peiyuan-Wang.github.io/blogs/fictions/星空下的四季)

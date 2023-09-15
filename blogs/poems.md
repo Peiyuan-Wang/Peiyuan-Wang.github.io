@@ -24,3 +24,5 @@ title: Poems
 - [失恋其五](https://Peiyuan-Wang.github.io/blogs/poems/失恋其五)
 - [雪](https://Peiyuan-Wang.github.io/blogs/poems/雪)
 - [愁](https://Peiyuan-Wang.github.io/blogs/poems/愁)
+- [柳](https://Peiyuan-Wang.github.io/blogs/poems/柳)
+- [无题3](https://Peiyuan-Wang.github.io/blogs/poems/无题3)
