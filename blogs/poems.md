@@ -23,3 +23,4 @@ title: Poems
 - [沁园春·别](https://Peiyuan-Wang.github.io/blogs/poems/沁园春·别)
 - [失恋其五](https://Peiyuan-Wang.github.io/blogs/poems/失恋其五)
 - [雪](https://Peiyuan-Wang.github.io/blogs/poems/雪)
+- [愁](https://Peiyuan-Wang.github.io/blogs/poems/愁)
