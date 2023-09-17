@@ -29,3 +29,5 @@ title: Poems
 - [无题4](https://Peiyuan-Wang.github.io/blogs/poems/无题4)
 - [未来生活的愿景](https://Peiyuan-Wang.github.io/blogs/poems/未来生活的愿景)
 - [错过](https://Peiyuan-Wang.github.io/blogs/poems/错过)
+- [秋感](https://Peiyuan-Wang.github.io/blogs/poems/秋感)
+- [秋感](https://Peiyuan-Wang.github.io/blogs/poems/秋感)
