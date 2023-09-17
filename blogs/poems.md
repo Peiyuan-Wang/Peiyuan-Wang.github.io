@@ -30,4 +30,5 @@ title: Poems
 - [未来生活的愿景](https://Peiyuan-Wang.github.io/blogs/poems/未来生活的愿景)
 - [错过](https://Peiyuan-Wang.github.io/blogs/poems/错过)
 - [秋感](https://Peiyuan-Wang.github.io/blogs/poems/秋感)
-- [秋感](https://Peiyuan-Wang.github.io/blogs/poems/秋感)
+- [喜欢](https://Peiyuan-Wang.github.io/blogs/poems/喜欢)
+- [喜欢](https://Peiyuan-Wang.github.io/blogs/poems/喜欢)
