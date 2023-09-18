@@ -32,3 +32,5 @@ title: Poems
 - [秋感](https://Peiyuan-Wang.github.io/blogs/poems/秋感)
 - [喜欢](https://Peiyuan-Wang.github.io/blogs/poems/喜欢)
 - [如梦令](https://Peiyuan-Wang.github.io/blogs/poems/如梦令)
+- [无题5](https://Peiyuan-Wang.github.io/blogs/poems/无题5)
+- [一首小诗](https://Peiyuan-Wang.github.io/blogs/poems/一首小诗)
