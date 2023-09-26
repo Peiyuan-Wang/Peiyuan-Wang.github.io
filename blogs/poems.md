@@ -34,3 +34,8 @@ title: Poems
 - [如梦令](https://Peiyuan-Wang.github.io/blogs/poems/如梦令)
 - [无题5](https://Peiyuan-Wang.github.io/blogs/poems/无题5)
 - [一首小诗](https://Peiyuan-Wang.github.io/blogs/poems/一首小诗)
+- [天空的颜色](https://Peiyuan-Wang.github.io/blogs/poems/天空的颜色)
+- [清晨](https://Peiyuan-Wang.github.io/blogs/poems/清晨)
+- [瞎写](https://Peiyuan-Wang.github.io/blogs/poems/瞎写)
+- [辞](https://Peiyuan-Wang.github.io/blogs/poems/辞)
+- [晚安](https://Peiyuan-Wang.github.io/blogs/poems/晚安)
