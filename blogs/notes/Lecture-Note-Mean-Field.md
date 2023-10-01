@@ -193,7 +193,7 @@ t and J are the parameter of the model. We can set them initially and find the v
 
 $$
 \begin{array}{cccccc}
-\square & \psi=\langle b\rangle &\lambda & a & \left\langle c_{2}^{\dagger} c_{1}\right\rangle & U(1)_{\text {layer }} \\
+~ & \psi=\langle b\rangle &\lambda & a & \left\langle c_{2}^{\dagger} c_{1}\right\rangle & U(1)_{\text {layer }} \\
 t>>\mathrm{J} & O(1) & 0 & \text { Higgs } & 0 & \text { symm } \\
 J>>\mathrm{t} & 0 & O(1) & \text { confine } & 0 & \text { symm } \\
 ? & 0 & 0 & \text { deconfine }(\mathrm{QED}) & 0 & \text { symm } \\
