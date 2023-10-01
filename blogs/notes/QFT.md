@@ -21,12 +21,12 @@ permalink: /blogs/notes/QFT/index.html
 title: QFT
 ---
 
-## QFT
+# QFT
 
 
-### Introduction
+## Introduction
 
-#### Why QFT?
+### Why QFT?
 
 field is used to construct laws of Nature that are local.
 
@@ -51,7 +51,7 @@ field is used to construct laws of Nature that are local.
 
 
 
-#### What is QFT?
+### What is QFT?
 QFT is the quantization of a classical field.
 
 freedom are operator valued functions of space and time which means infinite degrees.
@@ -64,9 +64,9 @@ decoupling of short distance phenomena from physics at larger scales)
 
 
 
-### Classical Field Theory
+## Classical Field Theory
 
-#### The Dynamics of Fields
+### The Dynamics of Fields
 
 
 - A field is a quantity defined at every point of space and time.
@@ -200,7 +200,7 @@ implement locality. In this course, we will only consider local Lagrangians.
 
 
 
-#### Lorentz Invariance
+### Lorentz Invariance
 
 One of the main motivation to develop QFT is to reconcile QM and SR. So we want to construct field theory in which space and time are equal and the theory is Lorentz covariant.
 
@@ -260,7 +260,7 @@ $$
     
     
 
-#### Symmetries
+### Symmetries
 
 There are Lorentz symmetries, internal symmetries, gauge symmetries,
 supersymmetries $\cdots$
@@ -465,23 +465,23 @@ the fields and acts the same at every point in spacetime.
     
      a quick method to determine the conserved current associated to an internal symmetry $\delta \phi = \alpha \phi$
 
-#### Free Fields
+### Free Fields
 
 ---
 
-### Interacting Fields
+## Interacting Fields
 
 ---
 
-### The Dirac Equation
+## The Dirac Equation
 
 ---
 
-### Quantizing the Dirac Field
+## Quantizing the Dirac Field
 
 ---
 
-### Quantum Electrodynamics
+## Quantum Electrodynamics
 
 
 
