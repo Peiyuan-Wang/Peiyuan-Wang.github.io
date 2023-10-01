@@ -20,7 +20,7 @@ I was a senior student majoring in **Physics** at Nanjing University. Currently,
 
 &emsp; **Nanjing University** &emsp;   **Bachelor's Degree** 
 
-&emsp; **Kuang Yaming Honors School--Physics**
+ **Kuang Yaming Honors School--Physics**
 
 
 <br>
