@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /blogs/notes/QFT/index.html
+title: QFT
 <head>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -15,11 +19,6 @@
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js">
 </script>
 <head>
----
-layout: page
-permalink: /blogs/notes/QFT/index.html
-title: QFT
-
 ---
 
 ## QFT
