@@ -2,6 +2,19 @@
 layout: page
 permalink: /blogs/notes/Lecture-Note-Mean-Field/index.html
 title: Lecture-Note-Mean-Field
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config(
+            {
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 ---
 
 ## Lecture Note-Mean Field
