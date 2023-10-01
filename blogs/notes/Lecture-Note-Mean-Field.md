@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/notes/Lecture Note-Mean Field/index.html
-title: Lecture Note-Mean Field
+permalink: /blogs/notes/Lecture-Note-Mean-Field/index.html
+title: Lecture-Note-Mean-Field
 ---
 
 ## Lecture Note-Mean Field
