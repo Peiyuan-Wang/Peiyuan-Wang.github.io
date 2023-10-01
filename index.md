@@ -18,9 +18,9 @@ I was a senior student majoring in **Physics** at Nanjing University. Currently,
 
 - **Sep 2019 - June 2023:** 
 
-&emsp **Nanjing University** &emsp;   **Bachelor's Degree** 
+&emsp; **Nanjing University** &emsp;   **Bachelor's Degree** 
 
-&emsp **Kuang Yaming Honors School--Physics**
+&emsp; **Kuang Yaming Honors School--Physics**
 
 
 <br>
