@@ -8,7 +8,7 @@ layout: page
 
 Here is **Peiyuan Wang (Parry, 王培源)**.
 
-I was a senior student majoring in **Physics** at Nanjing University. Currently, I am a student of [Prof. Yuxin Zhao](https://www.physics.hku.hk/people/academic/13703) working on condensed matter theory.
+I am a Ph.D student in **Physics** at Hong Kong University. Currently, I am a student of [Prof. Yuxin Zhao](https://www.physics.hku.hk/people/academic/13703) working on condensed matter theory.
 
 <br>
 
