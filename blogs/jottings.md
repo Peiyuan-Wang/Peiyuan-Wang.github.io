@@ -15,3 +15,4 @@ title: jottings
 - [2021](https://Peiyuan-Wang.github.io/blogs/jottings/2021)
 - [2022](https://Peiyuan-Wang.github.io/blogs/jottings/2022)
 - [2023](https://Peiyuan-Wang.github.io/blogs/jottings/2023)
+- [2024](https://Peiyuan-Wang.github.io/blogs/jottings/2024)
