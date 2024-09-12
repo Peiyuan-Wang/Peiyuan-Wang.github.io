@@ -46,3 +46,6 @@ title: Poems
 - [江城子](https://Peiyuan-Wang.github.io/blogs/poems/江城子)
 - [逃](https://Peiyuan-Wang.github.io/blogs/poems/逃)
 - [绝句](https://Peiyuan-Wang.github.io/blogs/poems/绝句)
+- [无题6](https://Peiyuan-Wang.github.io/blogs/poems/无题6)
+- [梦](https://Peiyuan-Wang.github.io/blogs/poems/梦)
+- [清冷](https://Peiyuan-Wang.github.io/blogs/poems/清冷)
