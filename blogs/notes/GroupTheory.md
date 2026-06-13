@@ -8,3 +8,4 @@ title: GroupTheory
 
 ## Concepts of group
 
+The group has 4 rules:
